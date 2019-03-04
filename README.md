@@ -11,7 +11,7 @@ S = {S1, S2, …, Sk}.
 Pasos del algoritmo:
 * Paso 1:
         Seleccionamos al azar k centros de agrupamientos (centroides). Tomamos como centroides c1, c2, .., ck; podemos decir
-        que C = c1, c2, .., ckes el conjunto de todos los centroides.
+        que C = c1, c2, .., ck es el conjunto de todos los centroides.
 * Paso 2:
         Asignamos cada valor de entrada al centroide más cercano. Este se hace calculando la distancia euclidiana entre el punto y
         cada centroide.

@@ -21,5 +21,5 @@ Pasos del algoritmo:
         Repetimos los pasos 2 y 3 hasta que ninguna de las asinaciones de cluster cambie.
         
 Elegir el valor de k:
-Con frecuencia, conocemos el valor de K. En ese caso, usamos el valor de K. De lo contrario, usamos el Método Elbow.
+Con frecuencia, conocemos el valor de K. En ese caso, usamos el valor de K. De lo contrario, usamos el Método Elbow (existen otros métodos).
 Ejecutamos el algoritmo para diferentes valores de K (por ejemplo, K = 10 a 1) y trazamos los valores de K contra SSE (suma de errores cuadrados). Y seleccione el valor de K para el punto de codo.
